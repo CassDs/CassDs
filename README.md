@@ -1,4 +1,4 @@
-## Hey! Eu sou Cássio, mas conhecido como L0k1
+## Hi
 
 - 🌱 Atualmente estudando Sistemas de Informações!
 
