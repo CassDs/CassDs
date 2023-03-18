@@ -1,6 +1,6 @@
 ## Hi
 
-- 🌱 Atualmente estudando Sistemas de Informações!
+- 🌱 Develop Back-End!
 
 
 <div align="center">
